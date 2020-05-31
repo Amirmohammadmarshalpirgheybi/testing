@@ -1,0 +1,8 @@
+# Default ignored files
+/workspace.xml
+.idea
+*.iml
+*.kotlin_module
+*.xml
+*.kotlin_module
+

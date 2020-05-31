@@ -1,0 +1,19 @@
+Users:
+Melika Shadkam  95102145  melika8632  Electrical Engineering  Control  Dr. Ghasemi  [(22034,2),(25754,3),(22035,1)]
+Ali Mokhtari  93107834  5678AliM  Computer Engineering  IT  Dr. Shams  [(37622,1)]
+Ahmad Dadkhah  96104286  23@dadA  Mechanical Engineering  nan  Dr. Ashtiani  [(22034,1),(25733,2)]
+Zahra Torabi  97108932  zahra8932T  Industrial Engineering  Optimization  Dr. Atoof  nan
+Mahdi Abbasi  94108896  mahdiAbbasi94  Electrical Engineering  Digital Systems  Dr. Davoodi  [(25754,2),(25755,1)]
+Mohammad Madani  97104577  6542MM45  Mechanical Engineering  Robotics  Dr. Navabi  [(22034,2)]
+Mona Farhadi  95106128  0024167F_M  Civil Engineering  nan  Dr. Alidadi  nan
+Moin Sayadi  98101087  Sayad@m9887  Computer Engineering  Software  Dr. Masoomian  [(22034,1),(25755,1)]
+Courses:
+22034  1  3  22016  Differential Equations  275  280  Dr. Ahadi  1399/03/27  Sunday-Tuesday(10:30-12:0)  nan 
+22034  2  3  22016  Differential Equations  250  280  Dr. Ahadi  1399/03/27  Sunday-Tuesday(9:0-10:30)  nan 
+22035  1  3  22034  Engineering Mathematics  32  35  Dr. Javid  1399/03/25  Saturday-Monday(7:30-9:0)  nan 
+25733  2  3  25735,24012  Electromagnetics  28  45  Dr. Akrami  1399/04/02  Sunday-Tuesday(7:30-9:0)  nan 
+25733  1  3  25735,24012  Electromagnetics  38  45  Dr. Movahed  1399/04/02  Saturday-Monday(10:30-12:0)  nan 
+25754  2  4  25743  ComputerStructure & Lab  21  40  Dr. Miri  1399/04/03  Sunday-Tuesday(9:0-10:30)  Lab:Sunday(13:0-16:0)
+25754  3  4  25743  ComputerStructure & Lab  36  40  Dr. Haji  1399/04/03  Sunday-Tuesday(10:30-12:0)  Lab:Wednesday(9:0-12:0)
+25755  1  3  nan  Algorithm Design  53  55  Dr. Saboor  1399/03/25  Sunday-Tuesday(7:30-9:0)  nan
+37622  1  2  nan  The History of Emamat  31  45  Dr. Sadeghi  1399/04/09  Wednesday(8:0-10:0)  Just for Girls!
